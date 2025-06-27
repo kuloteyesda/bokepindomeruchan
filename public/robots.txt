@@ -9,4 +9,4 @@ Allow: /category/*
 
 
 
-Sitemap: https://bokepterbaruviral.pages.dev/sitemap.xml
+Sitemap: https://bokepindomeruchan.pages.dev/sitemap.xml

@@ -3,7 +3,7 @@ import cloudflare from '@astrojs/cloudflare';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://videobokepartis.pages.dev',
+  site: 'https://bokepindomeruchan.pages.dev',
   output: 'server',
   adapter: cloudflare(),
   integrations: 
